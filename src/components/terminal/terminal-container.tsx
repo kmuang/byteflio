@@ -140,7 +140,7 @@ export function TerminalContainer({ compact = false }: { compact?: boolean }) {
       "loading secure profile modules...",
       "fetching project inventory...",
       "establishing terminal link...",
-      "Welcome to Simon Linn's Portfolio.",
+      "Welcome to Khup Muang's Portfolio.",
       "Type 'help' to see available commands. Try 'neofetch' for system info.",
     ];
     for (let i = 0; i < messages.length; i++) {
