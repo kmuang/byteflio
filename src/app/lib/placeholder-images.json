@@ -1,0 +1,23 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "project-1",
+      "description": "School Dashboard project screenshot",
+      "imageUrl": "https://picsum.photos/seed/school/800/600",
+      "imageHint": "dashboard software"
+    },
+    {
+      "id": "project-2",
+      "description": "Portfolio Generator tool",
+      "imageUrl": "https://picsum.photos/seed/portfolio/800/600",
+      "imageHint": "code editor"
+    },
+    {
+      "id": "project-3",
+      "description": "Community App",
+      "imageUrl": "https://picsum.photos/seed/community/800/600",
+      "imageHint": "mobile app"
+    }
+  ]
+}
